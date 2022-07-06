@@ -1,0 +1,1 @@
+Get text object: By.xpath: //span[normalize-space()='Total clients']
