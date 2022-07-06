@@ -4,11 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>anhtester.com</groupId>
-    <artifactId>AutomationFrameworkSelenium</artifactId>
-    <version>1.5.1</version>
-    <name>AutomationFrameworkSelenium</name>
-    <url>https://github.com/anhtester/AutomationFrameworkSelenium</url>
+    <groupId>lifetek.vn</groupId>
+    <artifactId>automation</artifactId>
+    <version>1.1</version>
+    <name>automation</name>
+    <url>https://github.com/fish4398/automation</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
